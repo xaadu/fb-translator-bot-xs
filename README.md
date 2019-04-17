@@ -12,16 +12,22 @@ Receives data by chatfuel with get method.(https://www.chatfuel.com).
   * json
   * pprint
 
-## Usage:
-  * Install packages
-  ```
-  pip install flask py-translator requests
-  ```
-  * Connect 
-
-## Try Here: 
+## Try Here(For Direct Use):
   * Page: https://www.facebook.com/translatorxs/
   * Messenger: https://m.me/translatorxs/
+
+## Usage(For creating your very own bot.):
+  * Install packages
+  ```pip install flask py-translator requests```
+  * Create a facebook page.
+  * Go to `https://chatfuel.com/` and connect facebook page.
+  * Create card `JSON API` in both "Welcome" and "Default Message" section.
+  * Download the repository from github.
+  * Modify code as you want.
+  * Upload in heroku or pythonanywhere (Contact if you face any problem).
+  * Remember your web app link.
+  * Put the link on `JSON API` URL section and select GET method.
+  * Your bot is 100% ready to use.
  
  ## Bugs:
   * Chainese Language
