@@ -9,6 +9,10 @@ Receives data by chatfuel(https://www.chatfuel.com) with get method.
   * Messenger: https://m.me/translatorxs/
 
 
+## Help:
+To know the usage, send '/help' to the bot.
+
+
 ## Bugs:
   * Chainese Language
   * Report if you find any
@@ -38,10 +42,6 @@ Receives data by chatfuel(https://www.chatfuel.com) with get method.
   * Remember your web app link.
   * Put the link on `JSON API` URL section and select GET method.
   * Your bot is 100% ready to use.
- 
-
-## Help:
-To know the usage, send '/help' to the bot.
 
 
 ## Feedback:
