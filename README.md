@@ -9,6 +9,11 @@ Receives data by chatfuel(https://www.chatfuel.com) with get method.
   * Messenger: https://m.me/translatorxs/
 
 
+## Bugs:
+  * Chainese Language
+  * Report if you find any
+
+
 ## Modules:
   * flask
   * py-translator
@@ -17,11 +22,6 @@ Receives data by chatfuel(https://www.chatfuel.com) with get method.
   * sys
   * json
   * pprint
-
-
- ## Bugs:
-  * Chainese Language
-  * Report if you find any
 
 
 ## Usage(For creating your very own bot.):
