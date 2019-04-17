@@ -189,7 +189,7 @@ def get_help(name):
            'Admin --> Xaadu\n' \
            'Creator --> Xaadu\n--------------------\n\n' \
            'For further help, contact me:\n\n' \
-           '--> FB: http://facebook.com/abdullahzayed1212/\n' \
+           '--> FB: http://facebook.com/xayed42/\n' \
            '--> Telegram: http://t.me/xaadu\n' \
            '' \
            '\n\nBest of luck. Any feedback is much appreciated.'.format(name=name)
