@@ -17,8 +17,10 @@ Receives data by chatfuel(https://www.chatfuel.com) with get method.
   * Messenger: https://m.me/translatorxs/
 
 ## Usage(For creating your very own bot.):
-  * Install packages
-  ```pip install flask py-translator requests```
+  * Install packages using this command:
+  ```
+  pip install flask py-translator requests
+  ```
   * Create a facebook page.
   * Go to `https://chatfuel.com/` and connect facebook page.
   * Create card `JSON API` in both "Welcome" and "Default Message" section.
