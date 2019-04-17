@@ -3,6 +3,12 @@
 A Simple Messenger Bot that can translate from many languages to many languages. It works based on Google Translator. 
 Receives data by chatfuel(https://www.chatfuel.com) with get method.
 
+
+## Try Here(For Direct Use):
+  * Page: https://www.facebook.com/translatorxs/
+  * Messenger: https://m.me/translatorxs/
+
+
 ## Modules:
   * flask
   * py-translator
@@ -12,9 +18,11 @@ Receives data by chatfuel(https://www.chatfuel.com) with get method.
   * json
   * pprint
 
-## Try Here(For Direct Use):
-  * Page: https://www.facebook.com/translatorxs/
-  * Messenger: https://m.me/translatorxs/
+
+ ## Bugs:
+  * Chainese Language
+  * Report if you find any
+
 
 ## Usage(For creating your very own bot.):
   * Install packages using this command:
@@ -31,15 +39,14 @@ Receives data by chatfuel(https://www.chatfuel.com) with get method.
   * Put the link on `JSON API` URL section and select GET method.
   * Your bot is 100% ready to use.
  
- ## Bugs:
-  * Chainese Language
-  * Report if you find any
- 
+
 ## Help:
 To know the usage, send '/help' to the bot.
 
+
 ## Feedback:
 Any feedback is much appreciated.
+
 
 ## Contact:
   * Mail: xayed42@gmail.com
