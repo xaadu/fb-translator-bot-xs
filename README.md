@@ -3,6 +3,15 @@
 A Simple Messenger Bot that can translate from many languages to many languages. It works based on Google Translator. 
 Receives data by chatfuel with get method.(https://www.chatfuel.com).
 
+## Modules:
+  * flask
+  * py-translator
+  * requests
+  * os
+  * sys
+  * json
+  * pprint
+
 
 ## Try Here: 
   * Page: https://www.facebook.com/translatorxs/
