@@ -12,6 +12,12 @@ Receives data by chatfuel with get method.(https://www.chatfuel.com).
   * json
   * pprint
 
+## Usage:
+  * Install packages
+  - ```
+  pip install flask py-translator requests
+  ```
+  * Connect 
 
 ## Try Here: 
   * Page: https://www.facebook.com/translatorxs/
