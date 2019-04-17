@@ -30,7 +30,7 @@ Receives data by chatfuel(https://www.chatfuel.com) with get method.
   pip install flask py-translator requests
   ```
   * Create a facebook page.
-  * Go to `https://chatfuel.com/` and connect facebook page.
+  * Go to https://chatfuel.com/ and connect facebook page.
   * Create card `JSON API` in both "Welcome" and "Default Message" section.
   * Download the repository from github.
   * Modify code as you want.
