@@ -14,7 +14,7 @@ Receives data by chatfuel with get method.(https://www.chatfuel.com).
 
 ## Usage:
   * Install packages
-  - ```
+  ```
   pip install flask py-translator requests
   ```
   * Connect 
