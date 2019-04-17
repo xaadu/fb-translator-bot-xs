@@ -1,7 +1,7 @@
 # Translator Bot for Facebook Messenger
 
 A Simple Messenger Bot that can translate from many languages to many languages. It works based on Google Translator. 
-Receives data by chatfuel with get method.(https://www.chatfuel.com).
+Receives data by chatfuel(https://www.chatfuel.com) with get method.
 
 ## Modules:
   * flask
