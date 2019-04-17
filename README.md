@@ -1,7 +1,7 @@
 # Translator Bot for Facebook Messenger
 
 A Simple Messenger Bot that can translate from many languages to many languages. It works based on Google Translator. 
-Receives data by chatfuel(https://www.chatfuel.com) with get method.
+Receives data by [Chatfuel](https://www.chatfuel.com/) with get method.
 
 
 ## Try Here(For Direct Use):
@@ -34,7 +34,7 @@ To know the usage, send '/help' to the bot.
   pip install flask py-translator requests
   ```
   * Create a facebook page.
-  * Go to https://chatfuel.com/ and connect facebook page.
+  * Go to [Chatfuel](https://www.chatfuel.com/) and connect facebook page.
   * Create card `JSON API` in both "Welcome" and "Default Message" section.
   * Download the repository from github.
   * Modify code as you want.
