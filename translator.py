@@ -97,7 +97,6 @@ def welcome(user_id, name):
            % (decode(src[user.index(str(user_id))]), decode(dest[user.index(str(user_id))]))
 
 
-# @bot.message_handler(commands=['cl'])
 def current_language(user_id):
     if str(user_id) not in user:
         return 'Sorry. 😔😔😔\n\n Please try sending /start once more.'
@@ -105,7 +104,6 @@ def current_language(user_id):
            % (decode(src[user.index(str(user_id))]), decode(dest[user.index(str(user_id))]))
 
 
-# @bot.message_handler(commands=['changed'])
 def language_change(user_id, message):
     if user_id in user:
         try:
@@ -131,7 +129,6 @@ def language_change(user_id, message):
         return 'Sorry. 😔😔😔\nTry sending /start once more.'
 
 
-# @bot.message_handler(commands=['swap'])
 def swap_language(user_id):
     if str(user_id) not in user:
         return 'Sorry. 😔😔😔\n\n Please try sending /start once more.'
@@ -150,7 +147,6 @@ def swap_language(user_id):
                'Try sending /start once more.'
 
 
-# @bot.message_handler(commands=['reset'])
 def reset(user_id):
     if str(user_id) not in user:
         return 'Sorry. 😔😔😔\n\n Please try sending /start once more.'
@@ -166,12 +162,10 @@ def reset(user_id):
                'Try sending /start once more.'
 
 
-# @bot.message_handler(commands=['languages'])
 def supported_languages():
     return langList
 
 
-# @bot.message_handler(commands=['help'])
 def get_help(name):
     return 'Welcome {name}. 😍😍😍\n\n' \
            'Send \'/admin\' to chat with admin.\n' \
