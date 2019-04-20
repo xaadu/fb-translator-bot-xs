@@ -69,7 +69,6 @@ def translator(text, index):
 
 
 # Commands _ START
-# @bot.message_handler(commands=['start'])
 def welcome(user_id, name):
     user_id = str(user_id)
     message = 'Hi, {name}. 😉😉😉 \n\nWelcome to TranslatorBot.\n\n' \
@@ -187,6 +186,7 @@ def get_help(name):
            '--> Telegram: http://t.me/xaadu\n' \
            '' \
            '\n\nBest of luck. Any feedback is much appreciated.'.format(name=name)
+# Commands _ END
 
 
 def translate(user_id, message):
