@@ -28,7 +28,7 @@ To know the usage, send '/help' to the bot.
   * pprint
 
 
-## Usage(For creating your very own bot.):
+## Usage(For creating your very own bot):
   * Install packages using this command:
   ```
   pip install flask py-translator requests
@@ -42,6 +42,8 @@ To know the usage, send '/help' to the bot.
   * Remember your web app link.
   * Put the link on `JSON API` URL section and select GET method.
   * Your bot is 100% ready to use.
+  
+  NB: You can use facebook app in developers.facebook.com to use. But you have to change app.py to make compitable 
 
 
 ## Feedback:
