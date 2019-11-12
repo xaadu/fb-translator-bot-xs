@@ -38,7 +38,8 @@ To know the usage, send '/help' to the bot.
   * Create card `JSON API` in both "Welcome" and "Default Message" section.
   * Download the repository from github.
   * Modify code as you want.
-  * Upload in heroku or pythonanywhere (Contact if you face any problem).
+  * Upload in heroku (Contact if you face any problem).
+    NB: PythonAnywhere Doesn't support 'googletrans' module. Use other instead if you use PA.
   * Remember your web app link.
   * Put the link on `JSON API` URL section and select GET method.
   * Your bot is 100% ready to use.
