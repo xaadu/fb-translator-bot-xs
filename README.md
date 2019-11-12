@@ -20,7 +20,7 @@ To know the usage, send '/help' to the bot.
 
 ## Modules:
   * flask
-  * py-translator
+  * googletrans
   * requests
   * os
   * sys
@@ -31,7 +31,7 @@ To know the usage, send '/help' to the bot.
 ## Usage(For creating your very own bot):
   * Install packages using this command:
   ```
-  pip install flask py-translator requests
+  pip install flask googletrans requests
   ```
   * Create a facebook page.
   * Go to [Chatfuel](https://www.chatfuel.com/) and connect facebook page.
