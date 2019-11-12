@@ -1,6 +1,6 @@
 import requests
 import dic
-from py_translator import Translator
+from googletrans import Translator
 
 
 # Filing _ START
